@@ -9,11 +9,13 @@
 
 ## 项目成员与分工
 
-| 成员 | 贡献 |
-| --- | --- |
-| 殷宇辉 | 项目构思、总体设计与集成、通知采集流程和 RAG 问答 |
-| 苏锐 | 通知推荐算法与评分解释 |
-| 顾嘉禾 | 文章聚类与用户画像 |
+| 成员 | GitHub | 贡献 |
+| --- | --- | --- |
+| 殷宇辉 | [@yunhuier](https://github.com/yunhuier) | 项目构思、总体设计与集成、通知采集流程和 RAG 问答 |
+| 苏锐 | [@happyDepth](https://github.com/happyDepth) | 通知推荐算法与评分解释 |
+| 顾嘉禾 | [@Jiahe-gln](https://github.com/Jiahe-gln) | 文章聚类与用户画像 |
+
+**指导教师**：王昊（[@wang-h](https://github.com/wang-h)）。
 
 [课堂演示稿](docs/presentation/上大知讯-项目演示.html)与截图同目录。下载并解压仓库 ZIP 后，可在浏览器中打开 HTML。网站按下文步骤在本机运行。
 
