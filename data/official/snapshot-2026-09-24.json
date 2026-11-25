@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "shu-main-400245",
+      "source_id": "shu_main",
+      "canonical_url": "https://www.shu.edu.cn/info/1051/400245.htm",
+      "title": "关于调整校园管理的通告",
+      "published_at": "2026-08-30",
+      "deadline_at": "2026-08-29T18:00:00+08:00",
+      "verified_at": "2026-09-25T16:55:00+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这是一则历史校园管理通告，面向校内各单位及受当时校园通行措施影响的师生。学校为配合2026年8月30日至9月13日的新生报到、开学典礼和军训，在该期间限制无关校外人员及车辆入校，并安排军训区域的道路和停车管理。原文要求主干道停放车辆在8月29日18时前驶离，此时限和管控时段均已结束；当前通行安排应查看官网后续通知。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "shu-main-395885",
+      "source_id": "shu_main",
+      "canonical_url": "https://www.shu.edu.cn/info/1051/395885.htm",
+      "title": "关于宝山校区校内通行温馨提醒",
+      "published_at": "2026-05-29",
+      "deadline_at": "2026-05-30T08:45:00+08:00",
+      "verified_at": "2026-09-25T16:55:00+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这是一则已过期的宝山校区通行提醒，面向广大师生。因2026年5月30日校友返校乐跑活动，当天8时10分至8时45分校园外环线主干道实施机动车临时规避；通知要求沿线在当日8时45分前不要停车，并说明首班校车只在南门和北门停靠。清单中的历史时刻表示当日停车限制的结束边界，不是新的车辆清理时限；当前道路状态须另查官网。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "shu-main-387395",
+      "source_id": "shu_main",
+      "canonical_url": "https://www.shu.edu.cn/info/1051/387395.htm",
+      "title": "关于对宝山校区A、B、C、D、AJ、BJ、CJ、DJ楼教室相关学生物品清理的通知",
+      "published_at": "2025-12-19",
+      "deadline_at": "2025-12-19T12:00:00+08:00",
+      "verified_at": "2026-09-25T16:55:00+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这是一则2025年12月的历史通知，面向在宝山校区相关教学楼自修的学生。为保障2026年全国硕士研究生招生考试，A、B、C、D、AJ、BJ、CJ、DJ楼教室曾于2025年12月19日17时至21日18时暂停使用；通知要求学生在12月19日12时前清理教室内个人学习物品。清理时限和停用时段均已过去，不能视为当前行动提醒。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "shu-main-397875",
+      "source_id": "shu_main",
+      "canonical_url": "https://www.shu.edu.cn/info/1051/397875.htm",
+      "title": "关于2025-2026学年暑假工作安排的通知",
+      "published_at": "2026-06-30",
+      "deadline_at": null,
+      "verified_at": "2026-09-25T16:55:00+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这是一则面向校内各单位的历史暑假工作安排，也列出2026级本科生、研究生和其他年级学生的报到时间。本科新生报到日为2026年8月31日，研究生新生为9月10日，其他年级学生为9月13日；通知另安排教职工返岗、假期值班和重点场所安全管理。上述报到及暑假工作日期截至核对日均已过去，不应作为新的报到提醒。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "shu-main-392005",
+      "source_id": "shu_main",
+      "canonical_url": "https://www.shu.edu.cn/info/1051/392005.htm",
+      "title": "关于2026年清明节、劳动节、端午节放假安排的通知",
+      "published_at": "2026-03-23",
+      "deadline_at": null,
+      "verified_at": "2026-09-25T16:55:00+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这是一则面向校内各单位的2026年春季和初夏节假日安排，相关日期均已过去。清明节放假为4月4日至6日，劳动节为5月1日至5日，并曾安排5月9日补5月4日的课程；端午节放假为6月19日至21日。通知同时要求任课教师调整课程进度、各单位做好假期值守与安全工作，不能把这些历史安排当作当前放假通知。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "shu-main-400395",
+      "source_id": "shu_main",
+      "canonical_url": "https://www.shu.edu.cn/info/1051/400395.htm",
+      "title": "关于2026年中秋节、国庆节放假安排的通知",
+      "published_at": "2026-09-08",
+      "deadline_at": null,
+      "verified_at": "2026-09-28T12:41:32+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这则安排面向校内各单位及师生，说明2026年中秋节9月25日至27日、国庆节10月1日至7日的放假调休。中秋假期在本次核对时已经结束；9月20日曾安排10月6日课程，10月10日安排10月7日课程，届时需上课上班。节日期间校车按节假日时刻表运行，具体课表和校车班次仍应以学校系统及官网后续通知为准。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "bksy-321714",
+      "source_id": "undergraduate",
+      "canonical_url": "https://bksy.shu.edu.cn/info/1015/321714.htm",
+      "title": "上海大学2026级本科新生秋季学期选课通知",
+      "published_at": "2026-08-28",
+      "deadline_at": "2026-09-06T17:30:00+08:00",
+      "verified_at": "2026-09-25T16:55:00+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这是一则面向2026级本科新生及教学单位的历史选课通知。线上选课第一轮为2026年9月3日9时至17时30分，第二轮为9月6日13时至17时30分，两轮均已结束；学生须按培养方案、课程代码、开课校区和先修要求核对课程。原文还说明35学分上限、秋季学期前两周只能退一门课的自由退课规则，以及正式上课前确认课表的要求；具体后续安排应以选课系统和官网通知为准。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "bksy-320424",
+      "source_id": "undergraduate",
+      "canonical_url": "https://bksy.shu.edu.cn/info/1015/320424.htm",
+      "title": "2026-2027学年秋季学期本科生选课通知",
+      "published_at": "2026-05-07",
+      "deadline_at": "2026-05-20T08:00:00+08:00",
+      "verified_at": "2026-09-25T16:55:00+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这是一则说明本科生2026至2027学年秋季学期选课入口和规则的历史通知。五月的第一轮和第二轮选课已结束；原文另列学期第一、二周自由退课及第一周特殊情况选课时段，具体适用日期和当前开放状态应以学校校历及选课系统为准。学生应按培养方案核对课程号、校区、先修要求和课表；文中分别列出2024级及以前与2025级学生的学分上限。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "bksy-321924",
+      "source_id": "undergraduate",
+      "canonical_url": "https://bksy.shu.edu.cn/info/1015/321924.htm",
+      "title": "2026年上海市高等学校信息技术水平考试报名工作的通知",
+      "published_at": "2026-09-16",
+      "deadline_at": "2026-09-24T16:00:00+08:00",
+      "verified_at": "2026-09-28T12:41:32+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这则通知面向上海大学在籍本科生和研究生，介绍2026年上海市高等学校信息技术水平考试的报名及考试安排。网上报名为9月17日10时至9月24日16时，现已结束，不能再作为报名提醒；已报名者可从10月20日起登录报名系统打印准考证。一级考试安排在11月15日，二至四级相关科目安排在11月28日，考场为宝山校区机房；具体科目、场次和入场证件应以官网原文及准考证为准。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "gs-173242",
+      "source_id": "graduate",
+      "canonical_url": "https://gs.shu.edu.cn/info/1029/173242.htm",
+      "title": "上海大学2026级硕博连读研究生、直博生 申请课程免修及成绩认定通知",
+      "published_at": "2026-09-11",
+      "deadline_at": "2026-10-11",
+      "verified_at": "2026-09-25T16:55:00+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这则通知面向2026级硕博连读研究生、直博生及相关学院，说明符合条件者可申请相应课程免修或已修课程的学分、成绩认定。申请时间为2026年9月11日至10月11日；相关学生须先完成个人培养计划，再通过研究生综合服务平台提交申请，由导师和学院审批后交研究生院审核。通知列有具体课程条件，申请资格及办理细节应核对官网原文；附件操作手册未纳入本快照核对。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "gs-173222",
+      "source_id": "graduate",
+      "canonical_url": "https://gs.shu.edu.cn/info/1029/173222.htm",
+      "title": "上海大学2026级研究生新生学籍信息录入与培养计划登录通知",
+      "published_at": "2026-09-11",
+      "deadline_at": "2026-10-11",
+      "verified_at": "2026-09-25T16:55:00+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这则通知面向2026级研究生新生，要求登录学校研究生综合服务平台，填写学籍信息与导师信息，并在导师指导下制定、提交培养计划。原文规定登录时间为2026年9月11日至10月11日；学生须打印入学登记表和培养计划各一份，交所在学院留存。通知提到须完整填写个人资料，但本快照仅概述办事要求，不含任何学生的实际个人信息；附件手册未纳入核对。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    },
+    {
+      "id": "cs-1081-52051",
+      "source_id": "computer",
+      "canonical_url": "https://cs.shu.edu.cn/info/1081/52051.htm",
+      "title": "上海大学计算机工程与科学学院接收2027年推免研究生复试工作安排",
+      "published_at": "2026-09-16",
+      "deadline_at": null,
+      "verified_at": "2026-09-27T17:45:56+08:00",
+      "reviewer": "codex_reviewed",
+      "summary": "这则通知面向预计可获得或已经获得所在本科毕业学校推免资格、拟申请上海大学计算机工程与科学学院2027年推免研究生（含直博生）的全日制应届本科毕业生。申请人须先在学校预报名系统报名，收到学院通知后按要求提交材料；收到复试通知后回复确认，复试前一天携材料到宝山校区东区计算机学院现场确认，复试当天备有效身份证和已注册学生证接受资格审查。推免服务系统开通后，还须填报志愿并确认复试及待录取通知。学院根据报名情况分批复试，原文未给出统一截止日或具体场次时间；报名是否仍开放及具体复试安排，请以学校预报名系统、学院官网及收到的站内信和邮件为准。",
+      "checks": {"url": true, "title": true, "date": true, "audience": true, "action": true, "summary": true, "sensitivity": true}
+    }
+  ]
+}

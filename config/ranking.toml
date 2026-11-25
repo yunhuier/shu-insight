@@ -1,0 +1,12 @@
+[profile]
+relevance = 0.40
+audience = 0.25
+urgency = 0.20
+authority = 0.10
+freshness = 0.05
+
+[no_profile]
+relevance = 0.55
+urgency = 0.25
+authority = 0.10
+freshness = 0.10

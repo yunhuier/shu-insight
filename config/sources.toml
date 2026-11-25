@@ -1,0 +1,59 @@
+# Pagination follows only each list page's own anchor labeled exactly 下页.
+# The scoped URL pattern is an allowlist, never a page-number generator.
+# reviewed_on is the original listing review; pagination_reviewed_on records
+# the later observed public next links.
+[[source]]
+id = "shu_main"
+name = "上海大学官网"
+base_url = "https://www.shu.edu.cn/"
+list_url = "https://www.shu.edu.cn/tzgg.htm"
+allowed_path_prefixes = ["/tzgg", "/info/"]
+authority_score = 1.00
+minimum_interval_seconds = 2.0
+reviewed_on = "2026-09-21"
+pagination_selector = "a"
+pagination_link_text = "下页"
+pagination_url_pattern = '/tzgg(?:/\d+)?\.htm'
+pagination_reviewed_on = "2026-10-13"
+
+[[source]]
+id = "undergraduate"
+name = "上海大学本科生院"
+base_url = "https://bksy.shu.edu.cn/"
+list_url = "https://bksy.shu.edu.cn/index/tzgg.htm"
+allowed_path_prefixes = ["/index/tzgg", "/info/"]
+authority_score = 0.90
+minimum_interval_seconds = 2.0
+reviewed_on = "2026-09-21"
+pagination_selector = "a"
+pagination_link_text = "下页"
+pagination_url_pattern = '/index/tzgg(?:/\d+)?\.htm'
+pagination_reviewed_on = "2026-10-13"
+
+[[source]]
+id = "graduate"
+name = "上海大学研究生院"
+base_url = "https://gs.shu.edu.cn/"
+list_url = "https://gs.shu.edu.cn/xwlb/sy.htm"
+allowed_path_prefixes = ["/xwlb/sy", "/info/"]
+authority_score = 0.90
+minimum_interval_seconds = 2.0
+reviewed_on = "2026-09-21"
+pagination_selector = "a"
+pagination_link_text = "下页"
+pagination_url_pattern = '/xwlb/sy(?:/\d+)?\.htm'
+pagination_reviewed_on = "2026-10-13"
+
+[[source]]
+id = "computer"
+name = "上海大学计算机工程与科学学院"
+base_url = "https://cs.shu.edu.cn/"
+list_url = "https://cs.shu.edu.cn/xxgk/tzgg.htm"
+allowed_path_prefixes = ["/xxgk/tzgg", "/info/"]
+authority_score = 0.95
+minimum_interval_seconds = 2.0
+reviewed_on = "2026-09-21"
+pagination_selector = "a"
+pagination_link_text = "下页"
+pagination_url_pattern = '/xxgk/tzgg(?:/\d+)?\.htm'
+pagination_reviewed_on = "2026-10-13"
