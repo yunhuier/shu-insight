@@ -9,16 +9,12 @@
 
 ## 项目分工
 
-- 项目构思、总体设计与集成、通知采集流程和 RAG 问答
-- 通知推荐算法与评分解释
-- 文章聚类与用户画像
-
-### GitHub 用户名
-
-- `yunhuier`
-- `happyDepth`
-- `Jiahe-gln`
-- `wang-h`
+| GitHub 用户名 | 分工 |
+| --- | --- |
+| `yunhuier` | 项目构思、总体设计与集成、通知采集流程和 RAG 问答 |
+| `happyDepth` | 通知推荐算法与评分解释 |
+| `Jiahe-gln` | 文章聚类与用户画像 |
+| `wang-h` | 指导教师 |
 
 [课堂演示稿](docs/presentation/上大知讯-项目演示.html)与截图同目录。下载并解压仓库 ZIP 后，可在浏览器中打开 HTML。网站按下文步骤在本机运行。
 
